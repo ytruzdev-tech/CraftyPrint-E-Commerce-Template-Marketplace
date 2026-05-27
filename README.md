@@ -29,7 +29,7 @@ Footer: Developer info and version.
 Usage
 
 Setup: Ensure Firebase configuration is correct; add your products in Firestore.  
-Admin Access: Double-click logo; enter password (CraftyPrintX1@).  
+Admin Access: Double-click logo; enter password (*******).  
 Manage Products: Add or delete via admin modal.  
 Order Management: Confirm payments, update statuses, upload download links.  
 Customer Interaction: Search, filter, view products, add to cart/wishlist, leave reviews.  
